@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '/Users/vins/Documents/konexio/react/movice/movice/src/Pages/Error404.css'
+import '/Users/vins/Documents/konexio/react/movice/movice/src/styles/Error404.css'
 
 export default class Error404 extends Component {
     render() {

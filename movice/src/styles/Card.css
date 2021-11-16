@@ -1,0 +1,11 @@
+.img-contain{
+    width: 200px;
+    height: 200px;
+
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
